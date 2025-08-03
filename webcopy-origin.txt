@@ -1,0 +1,136 @@
+Uri: https://bitcointalk.org/bitcoin-29.0.torrent
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\bitcoin-29.0.torrent
+Content Type: application/octet-stream
+
+Uri: https://i.imgur.com/K4mq31U.jpeg
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\K4mq31U.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.btcointalks.org/BTC.ttf
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\BTC.ttf
+Content Type: font/ttf
+
+Uri: https://www.btcointalks.org/catbg.jpg
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\catbg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.btcointalks.org/catbg2.jpg
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\catbg2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.btcointalks.org/ChopinScript.ttf
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\ChopinScript.ttf
+Content Type: font/ttf
+
+Uri: https://www.btcointalks.org/favicon.png
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\favicon.png
+Content Type: image/png
+
+Uri: https://www.btcointalks.org/filter.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\filter.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/index.html?topic=426692.0
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\index.html
+Content Type: text/html
+
+Uri: https://www.btcointalks.org/ip.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\ip.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/maintab_active_back.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\maintab_active_back.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/maintab_active_first.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\maintab_active_first.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/maintab_active_last.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\maintab_active_last.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/maintab_back.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\maintab_back.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/maintab_first.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\maintab_first.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/maintab_last.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\maintab_last.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/mobile.css
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\mobile.css
+Content Type: text/css
+
+Uri: https://www.btcointalks.org/normal_post.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\normal_post.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/powered-mysql.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\powered-mysql.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/powered-php.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\powered-php.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/print.css
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\print.css
+Content Type: text/css
+
+Uri: https://www.btcointalks.org/profile_sm.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\profile_sm.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/script.js
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\script.js
+Content Type: application/javascript
+
+Uri: https://www.btcointalks.org/smflogo.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\smflogo.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/star.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\star.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/style.css
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\style.css
+Content Type: text/css
+
+Uri: https://www.btcointalks.org/throb.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\throb.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/titlebg.jpg
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\titlebg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.btcointalks.org/upshrink.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\upshrink.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/useroff.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\useroff.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/valid-css.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\valid-css.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/valid-xhtml10.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\valid-xhtml10.gif
+Content Type: image/gif
+
+Uri: https://www.btcointalks.org/xml_topic.js
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\xml_topic.js
+Content Type: application/javascript
+
+Uri: https://www.btcointalks.org/xx.gif
+File Name: C:\Downloaded Web Sites\www.btcointalks.org\xx.gif
+Content Type: image/gif
+
